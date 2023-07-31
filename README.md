@@ -1,2 +1,2 @@
 # shellscript
-Introdução ao shell script
+Introdução ao shell script utilizando Ubuntu
